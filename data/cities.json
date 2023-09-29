@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Techiman",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2023-09-23T11:38:11.049Z",
+      "notes": "Nice place, third most developed in Ghana",
+      "position": {
+        "lat": "7.542209995927096",
+        "lng": "-1.9335937500000002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Lome",
+      "country": "Togo",
+      "emoji": "🇹🇬",
+      "date": "2023-09-23T11:40:27.952Z",
+      "notes": "Most beautiful in Togo, is the capital",
+      "position": {
+        "lat": "6.127241851801048",
+        "lng": "1.2409400939941408"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Kuje",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-09-23T12:48:45.942Z",
+      "notes": "",
+      "position": {
+        "lat": "8.624472107633936",
+        "lng": "7.360839843750001"
+      },
+      "id": 3
+    }
+  ]
+}
