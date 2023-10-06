@@ -35,6 +35,18 @@
         "lng": "7.360839843750001"
       },
       "id": 3
+    },
+    {
+      "cityName": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-09-30T23:45:10.046Z",
+      "notes": "Largest city in Nigeria",
+      "position": {
+        "lat": "6.446317749457659",
+        "lng": "3.5156250000000004"
+      },
+      "id": 4
     }
   ]
 }
